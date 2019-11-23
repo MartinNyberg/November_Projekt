@@ -22,7 +22,7 @@ namespace November_projekt
 
 
         //random generatorn för dmg
-        public int Attack()
+        public virtual int Attack()
         {
             Random generator = new Random();
             int damage = generator.Next(250, 600);

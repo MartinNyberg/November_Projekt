@@ -60,7 +60,6 @@ namespace November_projekt
 
             Console.ReadKey();
 
-
         }
     }
 }
